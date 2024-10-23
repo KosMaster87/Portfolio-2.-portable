@@ -21,6 +21,7 @@ button {
   }
 }
 
+// Handy extra Klein
 @media screen and (max-width: 350px) and (orientation: portrait) {
   section {
     display: flex;
@@ -235,6 +236,7 @@ button {
   }
 }
 
+// Handy
 @media screen and (min-width: 350px) and (max-width: 720px) and (orientation: portrait) {
   section {
     display: flex;
@@ -663,6 +665,7 @@ button {
   }
 }
 
+// Tablet
 @media screen and (min-width: 720px) and (max-width: 1024px) and (orientation: portrait) {
   section {
     display: flex;
@@ -920,7 +923,7 @@ button {
     max-height: unset;
     min-height: unset;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: space-between;
     padding: 0.5rem 0.5rem;
@@ -928,7 +931,7 @@ button {
 
     img {
       flex: 1;
-      width: 100%;
+      width: calc(50% - 10px);
       height: auto;
       border-radius: 5px;
       object-fit: cover;
@@ -939,7 +942,7 @@ button {
     .transparentDiv {
       flex: 1;
       max-height: 100%;
-      width: 100%;
+      width: calc(50% - 10px);
       height: 100%;
       display: flex;
       align-items: center;
@@ -963,7 +966,7 @@ button {
     min-height: unset;
     max-height: unset;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: space-between;
     padding: 0.5rem 0.5rem;
@@ -971,10 +974,10 @@ button {
 
     .rectangle {
       flex: 1;
-      width: 100%;
       z-index: 10;
-      max-height: 100%;
+      width: calc(50% - 10px);
       height: auto;
+      max-height: 100%;
       aspect-ratio: 16 / 9;
       border-radius: 5px;
       position: relative;
@@ -1025,18 +1028,18 @@ button {
 
     .infoBox {
       flex: 1;
-      width: 100%;
-      max-height: 100%;
+      width: calc(50% - 10px);
       height: auto;
+      max-height: 100%;
       display: flex;
       align-items: center;
-      justify-content: center;
-      flex-direction: column;
+      align-items: flex-start;
+      justify-content: flex-end;
       padding-left: 0;
       padding-bottom: 0;
       aspect-ratio: 16 / 9;
 
-      transform: translateY(-100%);
+      transform: translateX(-100%);
       opacity: 0;
       transition: transform 0.5s ease 0.6s, opacity 0.5s ease 0.6s;
       // transform: translateY(0);
@@ -1045,14 +1048,14 @@ button {
     }
 
     .infoBox.active {
-      transform: translateY(0);
+      transform: translateX(0);
       opacity: 1;
     }
   }
 
   .innerBox {
-    padding-left: 0;
-    padding-bottom: 0;
+    padding-left: 2.5rem;
+    padding-bottom: 1.5rem;
     display: flex;
     flex-direction: column;
     gap: 0.2rem;
@@ -1091,6 +1094,7 @@ button {
   }
 }
 
+// Desktop
 @media screen and (min-width: 1025px) {
   section {
     display: flex;
@@ -1186,10 +1190,10 @@ button {
   .rectangle {
     flex: 1;
     z-index: 10;
-    max-height: 100%;
-    height: auto;
-    aspect-ratio: 16 / 9;
     width: calc(50% - 10px);
+    height: auto;
+    max-height: 100%;
+    aspect-ratio: 16 / 9;
     border-radius: 5px;
     position: relative;
     opacity: 1;
@@ -1295,6 +1299,7 @@ button {
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
+    align-self: flex-start;
 
     h2 {
       font-size: clamp(28px, 1.5vw + 1.5rem, 50px);
