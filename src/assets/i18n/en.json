@@ -1,0 +1,116 @@
+{
+  "NAVBAR": {
+    "ABOUT_ME": "About me",
+    "SKILLS": "Skills",
+    "PORTFOLIO": "Portfolio"
+  },
+  "HEADER": {
+    "FIRST": "Developer",
+    "SECOND": "Scroll down"
+  },
+  "ABOUTME": {
+    "FIRST": "ABOUT ME",
+    "SECOND": "I am a frontend developer from Kerpen, Germany. I have experience in developing web applications and browser games.",
+    "THIRD": "My curiosity drives me to get the best results from the projects and to continuously improve my knowledge.",
+    "FOUR": "My precise and calm manner under pressure shows my efficiency in time management to complete projects on time.",
+    "FIVE": "Let's talk."
+  },
+  "MYSKILLS": {
+    "FIRST": "My Skills"
+  },
+  "PORTFOLIO": {
+    "FIRST": "Here is a selection of my projects, feel free to see them in action to see my skills."
+  },
+  "PROJECT1": {
+    "FIRST": "Task manager inspired by the Kanban system. Create and organize tasks with drag and drop features, assign users and categories."
+  },
+  "PROJECT2": {
+    "FIRST": "A simple jump-and-run game with an object-oriented approach. Help Pepe find coins and salsa bottles to fight the killer chicken."
+  },
+  "CONTACT": {
+    "FIRST": "You have a future project?",
+    "SECOND": "Contact me and we can discuss the ideas.",
+    "REQUIRED1": "Please enter your first and last name",
+    "REQUIRED2": "Please enter a valid email address",
+    "REQUIRED3": "Need 10 characters long",
+    "POLICY1": "I have read the",
+    "POLICY2": "privacy policy",
+    "POLICY3": "and agree to the processing of my data as described.",
+    "REQUIRED4": "Please accept the privacy policy.",
+    "SUBMIT": "Send Mail",
+    "INFO": "Your mail was sent.",
+    "PLACEHOLDER1": "Your first and last name",
+    "PLACEHOLDER2": "Your email",
+    "PLACEHOLDER3": "Your message"
+  },
+  "FOOTER": {
+    "FIRST": "Privacy policy",
+    "SECOND": "Imprint"
+  },
+  "PRIVACY_POLICY": {
+    "TEXT01": "Privacy Policy",
+    "TEXT02": "1. Data Protection at a Glance",
+    "TEXT03": "General Information",
+    "TEXT04": "The following provides a simple overview of what happens to your personal data when you visit this website. Personal data are all data with which you could be personally identified. Detailed information on the subject of data protection can be found in our privacy policy listed below this TEXT.",
+    "TEXT05": "Data Collection on This Website",
+    "TEXT06": "Who is responsible for data collection on this website?",
+    "TEXT07": "Data processing on this website is carried out by the website operator. The operator's contact details can be found in the 'Information About the Responsible Party' section of this privacy policy.",
+    "TEXT08": "How do we collect your data?",
+    "TEXT09": "Some data are collected when you provide it to us. This could, for example, be data you enter into a contact form.",
+    "TEXT10": "Other data are collected automatically by our IT systems when you visit the website, provided that you have given your consent. These are mainly technical data (e.g., internet browser, operating system, or time of page visit). This data is collected automatically as soon as you enter our website.",
+    "TEXT11": "What do we use your data for?",
+    "TEXT12": "Part of the data is collected to ensure the proper functioning of the website. Other data can be used to analyze your user behavior.",
+    "TEXT13": "What rights do you have regarding your data?",
+    "TEXT14": "You have the right to receive information about the origin, recipient, and purpose of your stored personal data free of charge at any time. You also have the right to request the correction or deletion of this data. If you have given your consent to data processing, you can revoke that consent at any time for the future. Additionally, you have the right, under certain circumstances, to request the restriction of the processing of your personal data. Furthermore, you have a right to lodge a complaint with the competent supervisory authority.",
+    "TEXT15": "For these purposes and for any other questions regarding data protection, you can contact us at any time.",
+    "TEXT16": "2. Hosting",
+    "TEXT17": "We host the content of our website with the following provider:",
+    "TEXT18": "All-Inkl",
+    "TEXT19": "Provider is ALL-INKL.COM - Neue Medien Münnich, Inh. René Münnich, Hauptstraße 68, 02742 Friedersdorf (hereinafter All-Inkl). For details, please refer to the privacy policy of All-Inkl:",
+    "TEXT21": "The use of All-Inkl is based on Art. 6(1)(f) GDPR. We have a legitimate interest in a reliable presentation of our website. If a corresponding consent has been requested, processing is carried out exclusively on the basis of Art. 6(1)(a) GDPR and § 25(1) TDDDG, to the extent that the consent includes the storage of cookies or access to information on the user's device (e.g., device fingerprinting) within the meaning of TDDDG. The consent can be revoked at any time.",
+    "TEXT22": "Data Processing Agreement",
+    "TEXT23": "We have concluded a data processing agreement (DPA) for the use of the above-mentioned service. This is a legally required contract ensuring that this service processes the personal data of our website visitors only according to our instructions and in compliance with the GDPR.",
+    "TEXT24": "3. General Information and Mandatory Information",
+    "TEXT25": "Data Protection",
+    "TEXT26": "The operators of these pages take the protection of your personal data very seriously. We treat your personal data confidentially and in accordance with the statutory data protection regulations and this privacy policy.",
+    "TEXT27": "When you use this website, various personal data are collected. Personal data are data with which you can be personally identified. This privacy policy explains what data we collect and what we use it for. It also explains how and for what purpose this happens.",
+    "TEXT28": "We would like to point out that data transmission over the Internet (e.g., communication by e-mail) may have security vulnerabilities. Complete protection of data against access by third parties is not possible.",
+    "TEXT29": "Information About the Responsible Party",
+    "TEXT30": "The responsible party for data processing on this website is:",
+    "TEXT34": "Email: s.lenz(a)sascha-lenz.org",
+    "TEXT35": "The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (e.g., names, email addresses, etc.).",
+    "TEXT36": "Storage Duration",
+    "TEXT37": "Unless a specific storage period is specified within this privacy policy, your personal data will remain with us until the purpose for processing the data no longer applies. If you make a legitimate request for deletion or revoke your consent to data processing, your data will be deleted, provided we have no other legally permissible reasons for storing your personal data (e.g., tax or commercial retention periods); in the latter case, deletion will occur after these reasons cease to apply.",
+    "TEXT38": "General Information on Data Processing Legal Basis",
+    "TEXT39": "If you have given consent to the processing of your personal data, we process your data on the basis of Art. 6(1)(a) GDPR or Art. 9(2)(a) GDPR, if special categories of data according to Art. 9(1) GDPR are processed. In case of an express consent to transfer personal data to third countries, the processing is also based on Art. 49(1)(a) GDPR. If you have consented to the storage of cookies or access to information on your device (e.g., via device fingerprinting), the processing is additionally based on § 25(1) TDDDG. The consent can be revoked at any time. If your data is necessary for the performance of a contract or for pre-contractual measures, we process your data based on Art. 6(1)(b) GDPR. Furthermore, we process your data if necessary to fulfill a legal obligation based on Art. 6(1)(c) GDPR. Processing may also be based on our legitimate interests pursuant to Art. 6(1)(f) GDPR. The relevant legal basis for each individual case is provided in the following paragraphs of this privacy policy.",
+    "TEXT40": "Recipients of Personal Data",
+    "TEXT41": "In the course of our business activities, we work with various external entities. In some cases, it is necessary to transmit personal data to these external entities. We only disclose personal data to external entities if it is necessary for the fulfillment of a contract, if we are legally obligated to do so (e.g., disclosure of data to tax authorities), if we have a legitimate interest pursuant to Art. 6(1)(f) GDPR in the disclosure, or if another legal basis permits data transfer. When using processors, we only disclose personal data of our customers on the basis of a valid data processing agreement. In the case of joint processing, a joint processing agreement is concluded.",
+    "TEXT42": "Revocation of Your Consent to Data Processing",
+    "TEXT43": "Many data processing operations are only possible with your express consent. You can revoke consent you have already given at any time. The legality of the data processing carried out before the revocation remains unaffected by the revocation.",
+    "TEXT44": "Right to Object to Data Collection in Special Cases and to Direct Marketing (Art. 21 GDPR)",
+    "TEXT45": "IF DATA PROCESSING IS BASED ON ART. 6(1)(E) OR (F) GDPR, YOU HAVE THE RIGHT TO OBJECT AT ANY TIME TO THE PROCESSING OF YOUR PERSONAL DATA FOR REASONS ARISING FROM YOUR PARTICULAR SITUATION, INCLUDING PROFILING BASED ON THOSE PROVISIONS. THE RESPECTIVE LEGAL BASIS ON WHICH PROCESSING IS BASED CAN BE FOUND IN THIS PRIVACY POLICY. IF YOU OBJECT, WE WILL NO LONGER PROCESS YOUR AFFECTED PERSONAL DATA UNLESS WE CAN DEMONSTRATE COMPELLING LEGITIMATE GROUNDS FOR THE PROCESSING WHICH OVERRIDE YOUR INTERESTS, RIGHTS, AND FREEDOMS OR THE PROCESSING SERVES THE ESTABLISHMENT, EXERCISE, OR DEFENSE OF LEGAL CLAIMS (OBJECTION PURSUANT TO ART. 21(1) GDPR).",
+    "TEXT46": "IF YOUR PERSONAL DATA ARE PROCESSED FOR DIRECT MARKETING PURPOSES, YOU HAVE THE RIGHT TO OBJECT AT ANY TIME TO THE PROCESSING OF YOUR PERSONAL DATA FOR THE PURPOSE OF SUCH ADVERTISING; THIS ALSO APPLIES TO PROFILING, IF IT IS RELATED TO SUCH DIRECT MARKETING. IF YOU OBJECT, YOUR PERSONAL DATA WILL SUBSEQUENTLY NO LONGER BE USED FOR THE PURPOSE OF DIRECT MARKETING (OBJECTION PURSUANT TO ART. 21(2) GDPR).",
+    "TEXT47": "Right to Lodge a Complaint with the Supervisory Authority",
+    "TEXT48": "In the event of violations of the GDPR, data subjects have the right to lodge a complaint with a supervisory authority, in particular in the Member State of their habitual residence, place of work, or the place of the alleged infringement. The right to lodge a complaint is without prejudice to other administrative or judicial remedies.",
+    "TEXT49": "Right to Data Portability",
+    "TEXT50": "You have the right to receive the personal data concerning you, which we process based on your consent or in fulfillment of a contract, in a structured, commonly used, and machine-readable format. If you request the direct transfer of the data to another controller, this will only be done to the extent technically feasible.",
+    "TEXT51": "Information, Correction, and Deletion",
+    "TEXT52": "Within the framework of the applicable legal provisions, you have the right to obtain free information about your stored personal data, its origin and recipients, and the purpose of data processing at any time. You also have the right to correct or delete this data. For this purpose and for further questions regarding personal data, you can contact us at any time.",
+    "TEXT53": "Right to Restriction of Processing",
+    "TEXT54": "You have the right to request the restriction of the processing of your personal data. You can contact us at any time for this purpose. The right to restrict processing exists in the following cases:",
+    "TEXT55": "If you contest the accuracy of your personal data stored with us, we usually need time to verify this. During the verification period, you have the right to request the restriction of the processing of your personal data.",
+    "TEXT56": "If the processing of your personal data was/is unlawful, you can request the restriction of data processing instead of deletion.",
+    "TEXT57": "If we no longer need your personal data, but you need it for the exercise, defense, or assertion of legal claims, you have the right to request the restriction of the processing of your personal data instead of deletion.",
+    "TEXT58": "If you have objected pursuant to Art. 21(1) GDPR, an assessment must be made between your interests and ours. As long as it is not yet clear whose interests prevail, you have the right to request the restriction of the processing of your personal data.",
+    "TEXT59": "If you have restricted the processing of your personal data, these data - apart from their storage - may only be processed with your consent or for the assertion, exercise, or defense of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest of the European Union or a Member State.",
+    "TEXT60": "SSL or TLS Encryption",
+    "TEXT61": "For security reasons and to protect the transmission of confidential content, such as orders or inquiries that you send to us as the site operator, this site uses SSL or TLS encryption. You can recognize an encrypted connection by the fact that the address line of the browser changes from 'http://' to 'https://' and by the lock symbol in your browser line.",
+    "TEXT62": "When SSL or TLS encryption is activated, the data you transmit to us cannot be read by third parties.",
+    "TEXT63": "Source:"
+  },
+  "IMPRINT": {
+    "TEXT01": "Imprint",
+    "TEXT02": "Contact",
+    "TEXT03": "Source:"
+  }
+}

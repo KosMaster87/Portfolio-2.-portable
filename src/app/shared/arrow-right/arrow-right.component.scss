@@ -1,0 +1,36 @@
+.window-center{
+  display: flex;
+  justify-content: center;
+}
+.window-width{
+  max-width: 1450px;
+  width: 100%;
+}
+
+div {
+  padding: 0px 0px 50px 0px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+img {
+  margin-right: 100px;
+}
+
+@media (max-width: 1000px) {
+  img {
+    margin-right: 30px;
+  }
+}
+
+@media (max-width: 800px) {
+  img {
+    margin-right: 30px;
+  }
+}
+
+@media (max-width: 550px) {
+  img {
+    scale: 0.8;
+  }
+}
